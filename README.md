@@ -32,7 +32,7 @@ This project demonstrates real-time data processing using Apache Kafka and Apach
 - Implemented tumbling and overlapping window aggregations.
 - Tested English Wikipedia event filtering.
 
-## Project Structure
+##  Structure
 - `compose.yaml` — Docker services configuration.
 - `admin.py` — Kafka topic management.
 - `wikistream_producer.py` — Wikimedia event producer.
