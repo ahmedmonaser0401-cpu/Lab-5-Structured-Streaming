@@ -1,7 +1,7 @@
 # Spark Structured Streaming — Wikimedia Events
 
 ## Project Overview
-This project demonstrates real-time data processing using Apache Kafka and Apache Spark Structured Streaming. It collects Wikimedia edit events, streams them through Kafka, and analyzes them with PySpark.
+This project demonstrates real-time data processing using Apache Kafka and Apache Spark Structured Streaming. It collects Wikimedia edit events, streams them through Kafka, and analyzes them with PySpark
 
 ## Technologies
 - Python
